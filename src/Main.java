@@ -3,7 +3,7 @@
         int rollNumber;
         char grade;
         
-        void dispalyDetails(){
+        void displayDetails(){
             System.out.println("Name: "+name);
             System.out.println("Roll Number:"+rollNumber);
             System.out.println("Grade:"+grade);
@@ -17,7 +17,7 @@ public class Main {
           si.name="Alex";
           si.rollNumber=12;
           si.grade='A';
-          si.dispalyDetails();
+          si.displayDetails();
         // TODO: Create a Student object and call the method to display details
     }
 }
