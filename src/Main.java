@@ -5,8 +5,8 @@
         
         void displayDetails(){
             System.out.println("Name: "+name);
-            System.out.println("Roll Number:"+rollNumber);
-            System.out.println("Grade:"+grade);
+            System.out.println("Roll Number: "+rollNumber);
+            System.out.println("Grade: "+grade);
         }
     }       // TODO: Create a class called Student with name, rollNumber, and grade
 
